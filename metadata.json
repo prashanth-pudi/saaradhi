@@ -1,0 +1,6 @@
+{
+  "name": "SAARADHI",
+  "description": "AI-Powered Surplus Food Rescue and Redistribution Platform. Every Surplus Has a Destination.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
